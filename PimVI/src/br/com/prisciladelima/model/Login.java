@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Cadastro de usuarios, configuração do perfil, status*//
+
 public class Login {
 
 	private Usuario usuario;

@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Cadastro de perfis do usuário, tais como cliente, vendedor, administrador,...*//
+
 public class Perfil {
 
 private String perfil;

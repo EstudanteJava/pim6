@@ -2,6 +2,8 @@ package br.com.prisciladelima.model;
 
 import java.util.Date;
 
+//*Cadastro dos cartões de crédito do usuário*//
+
 public class Cartao {
 
 	private String OperadoraCartao;

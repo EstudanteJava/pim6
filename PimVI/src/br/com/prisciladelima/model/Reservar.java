@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Reserva de livro indisponível com data limite para expirar a requisição.*//
+
 import java.util.Date;
 
 public class Reservar {

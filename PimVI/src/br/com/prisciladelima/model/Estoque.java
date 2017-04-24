@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Controle de estoque da livraria*//
+
 public class Estoque {
 
 	private Livro livro;

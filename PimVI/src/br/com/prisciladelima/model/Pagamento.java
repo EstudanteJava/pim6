@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Dados para pagamento da compra*//
+
 import java.util.Date;
 
 public class Pagamento {

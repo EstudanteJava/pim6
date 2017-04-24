@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Pedido de compra, consulta de disponibilidade e reserva*//
+
 public class Pedido {
 
 	private Livro livro;

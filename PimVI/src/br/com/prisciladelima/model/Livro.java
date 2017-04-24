@@ -1,5 +1,7 @@
 package br.com.prisciladelima.model;
 
+//*Cadastro de livros e suas características*//
+
 import java.util.Date;
 
 public class Livro {
