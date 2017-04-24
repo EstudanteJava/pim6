@@ -20,6 +20,8 @@ public class Pedido {
 	public boolean isDisponivel() {
 		if(!isDisponivel()){
 			System.out.println("O livro está indisponível no momento, processando reserva");
+		}else{
+			System.out.println("O livro está disponível para compra.");
 		}
 		return disponivel;
 		
