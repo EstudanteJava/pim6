@@ -1,4 +1,4 @@
-package br.com.prisciladelima.model;
+package br.com.pim.model;
 
 //*Reserva de livro indisponível com data limite para expirar a requisição.*//
 

@@ -1,4 +1,4 @@
-package br.com.prisciladelima.model;
+package br.com.pim.model;
 
 //*Pedido de compra, consulta de disponibilidade e reserva*//
 

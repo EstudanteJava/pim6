@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+
+h1 
+{
+color: black;
+text-align: center;
+font-size: 18pt
+}
+
+h2
+{
+color: black;
+text-align: center;
+font-size: 16pt
+}
+
+h3
+{
+color: black;
+text-align: center;
+font-size: 14pt
+}
+
+h4
+{
+color: black;
+text-align: center;
+font-size: 12pt
+}
+
+p {
+text-align: center;
+color: black;
+style="line-height: 1.5;
+}

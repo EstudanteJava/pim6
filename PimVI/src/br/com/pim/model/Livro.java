@@ -1,4 +1,4 @@
-package br.com.prisciladelima.model;
+package br.com.pim.model;
 
 //*Cadastro de livros e suas características*//
 

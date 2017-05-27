@@ -1,4 +1,4 @@
-package br.com.prisciladelima.model;
+package br.com.pim.model;
 
 //*Cadastro de perfis do usuário, tais como cliente, vendedor, administrador,...*//
 
