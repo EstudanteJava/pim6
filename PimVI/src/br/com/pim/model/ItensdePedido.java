@@ -8,7 +8,6 @@ public class ItensdePedido extends Pedido{
 	private double totalItem;
 	private double totalPedido;
 	
-
 	
 	public double somaItem(Estoque e) {
 		return totalItem = e.getValorUnit() * qtd;	
